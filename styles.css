@@ -10,7 +10,7 @@ margin: 0;
 
 header{
     background-color: var(--cor-cabecalho);
-    width: 50%;
+    width: 150px;
 }
 
 .container {
