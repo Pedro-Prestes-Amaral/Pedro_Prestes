@@ -15,9 +15,9 @@ header{
 .container {
     display: flex;
     align-items: center;
-    width: 50%;    
 }
 
 .container_imagem, .container_frase{
-    padding: 2em;
+    padding: 2em;   
+    width: 50%;
     }
