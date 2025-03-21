@@ -10,6 +10,7 @@ margin: 0;
 
 header{
     background-color: var(--cor-cabecalho);
+    width: 50%;
 }
 
 .container {
@@ -19,5 +20,4 @@ header{
 
 .container_imagem, .container_frase{
     padding: 2em;   
-    width: 50%;
     }
