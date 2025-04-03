@@ -1,10 +1,5 @@
-header{
-  background-color: var(--cor-cabecalho);
-  width:auto;
-}
-
 .cabecalho{
-    background-color: var(--cor-do-cabecalho);
+    background-color: var(--cor-cabecalho);
     padding: 10px;
     }
     .container{
