@@ -1,13 +1,13 @@
 .cabecalho{
     background-color: var(--cor-do-cabecalho);
-    padding: 5cm;
+    padding: 10px;
     }
     .container{
     display: flex;
     align-items: center;
     }
     .container imagem, .container frase{
-    padding: 5cm;
+    padding: 10px;
     }
     .container titulo, .container frase{
     display:none;
