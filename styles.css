@@ -8,11 +8,6 @@ background-color: var(--cor-de-fundo);
 margin: 0;
 }
 
-header{
-    background-color: var(--cor-cabecalho);
-    width:auto;
-}
-
 .container {
     display: flex;
     align-items: center;
